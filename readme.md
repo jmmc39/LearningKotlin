@@ -10,7 +10,6 @@ this is anguirus my favorite Kaiju.
 
 ## See you in more update about my road to be a developer.
 
-![img](https://img.shields.io/github/followers/jmmc39.svg?style=social&label=Follow&maxAge=2592000) 
 ![kotlinsito](https://img.shields.io/badge/Made_with%20Kotlin-100000?style=for-the-badge&logo=Kotlin&logoColor=white&labelColor=FF0000&color=FFFFFF)
 
 # You can follow me on
